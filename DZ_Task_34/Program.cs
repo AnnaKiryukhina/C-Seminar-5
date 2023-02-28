@@ -24,15 +24,15 @@ void CountEvenNumbers(int[] array, out int countEven)
    
     for (int i = 0; i < array.Length; i++)
     {
-        if (array[i] % 2 > 0)
+        if (array[i] % 2 < 1) //(array[i] % 2 < 1)
         {
-            countEven = i++; // sumEven = sumEven + array[i]
+            countEven = countEven +1; 
         }
         
     }
 }
 
-const int SIZE = 6;
+const int SIZE = 7;
 const int LEFT_RANGE = 100;
 const int RIGHT_RANGE = 1000;
 
