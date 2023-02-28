@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\Учеба\C# Seminar 5\DZ_Task_36\bin\Debug\net6.0\DZ_Task_36.exe
+C:\Users\Acer\Desktop\Учеба\C# Seminar 5\DZ_Task_36\bin\Debug\net6.0\DZ_Task_36.deps.json
+C:\Users\Acer\Desktop\Учеба\C# Seminar 5\DZ_Task_36\bin\Debug\net6.0\DZ_Task_36.runtimeconfig.json
+C:\Users\Acer\Desktop\Учеба\C# Seminar 5\DZ_Task_36\bin\Debug\net6.0\DZ_Task_36.dll
+C:\Users\Acer\Desktop\Учеба\C# Seminar 5\DZ_Task_36\bin\Debug\net6.0\DZ_Task_36.pdb
+C:\Users\Acer\Desktop\Учеба\C# Seminar 5\DZ_Task_36\obj\Debug\net6.0\DZ_Task_36.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Учеба\C# Seminar 5\DZ_Task_36\obj\Debug\net6.0\DZ_Task_36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Учеба\C# Seminar 5\DZ_Task_36\obj\Debug\net6.0\DZ_Task_36.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Учеба\C# Seminar 5\DZ_Task_36\obj\Debug\net6.0\DZ_Task_36.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Учеба\C# Seminar 5\DZ_Task_36\obj\Debug\net6.0\DZ_Task_36.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Учеба\C# Seminar 5\DZ_Task_36\obj\Debug\net6.0\DZ_Task_36.dll
+C:\Users\Acer\Desktop\Учеба\C# Seminar 5\DZ_Task_36\obj\Debug\net6.0\refint\DZ_Task_36.dll
+C:\Users\Acer\Desktop\Учеба\C# Seminar 5\DZ_Task_36\obj\Debug\net6.0\DZ_Task_36.pdb
+C:\Users\Acer\Desktop\Учеба\C# Seminar 5\DZ_Task_36\obj\Debug\net6.0\DZ_Task_36.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Учеба\C# Seminar 5\DZ_Task_36\obj\Debug\net6.0\ref\DZ_Task_36.dll
